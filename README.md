@@ -5,6 +5,7 @@ La compañía Sweet Lift Taxi ha recopilado datos históricos sobre pedidos de t
 La métrica RECM en el conjunto de prueba no debe ser superior a 48.
 
 Instrucciones del proyecto
+
 Descarga los datos y remuestréalos de tal forma que cada punto de datos de los datos originales caigan dentro de intervalos de una hora.
 Analiza los datos.
 Entrena diferentes modelos con diferentes hiperparámetros. La muestra de prueba debe ser el 10% del conjunto de datos inicial.
